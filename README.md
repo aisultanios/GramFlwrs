@@ -7,6 +7,14 @@
  
  Swift | SwiftUI | Widget Extensions | Facebook iOS SDK | Facebook Graph API | CoreData | AppGroups | BackgroundTasks | JSON Decoding | MVVM | Unit Testing | Facebook Authorization.
  
- ![ezgif com-gif-maker-13](https://user-images.githubusercontent.com/36818367/208233688-70a87266-204c-4156-b50f-b6da8d25a3b5.gif)
+ Authorization Proccess
 
-![ezgif com-gif-maker-4](https://user-images.githubusercontent.com/36818367/208233901-950a869e-7668-4eda-8656-bf63f2f1f189.png)
+![GramFlwrsFirstGif](https://user-images.githubusercontent.com/36818367/209585328-d8a92396-3161-45d8-8cf5-ee99da537de7.gif)
+
+Main Page, Data and Bar Chart
+
+![GramFlwrsSecondGif](https://user-images.githubusercontent.com/36818367/209585332-7a0dbf2f-cd47-450a-8598-a750d871181c.gif)
+
+Sign Out Process!
+
+![GramFlwrsThirdGif](https://user-images.githubusercontent.com/36818367/209585390-8227cc00-8c52-4665-a822-eafd9f46e8fb.gif)
