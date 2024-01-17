@@ -17,8 +17,9 @@
 To run the project on your device, follow these steps:
 
 * Clone the repository to your local machine.
-* You will need a real device and an Instagram Business account to log-in.
-* This project doesn't use any third-party libraries, so just build it and it will work.
+* You will need an Instagram Business account to log-in.
+* This project uses facebook's iOS SDK. Update package dependencies.
+* Build & Run the project.
   
  
 ## Authorization Process.
