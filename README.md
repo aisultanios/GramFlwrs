@@ -5,12 +5,12 @@
 
 ## 📦 Technologies:
 
-* SwiftUI
-* MVVM
-* Unit Testing
-* Widget Extensions
-* CoreData
-* Facebook Graph API
+* `SwiftUI`
+* `MVVM`
+* `Unit Testing`
+* `Widget Extensions`
+* `CoreData`
+* `Facebook Graph API`
 
 ## 🚦 Running the Project
 
