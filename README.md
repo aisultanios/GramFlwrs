@@ -12,6 +12,14 @@
 * CoreData
 * Facebook Graph API
 
+## 🚦 Running the Project
+
+To run the project on your device, follow these steps:
+
+* Clone the repository to your local machine.
+* You will need a real device and an Instagram Business account to log-in.
+* This project doesn't use any third-party libraries, so just build it and it will work.
+  
  
 ## Authorization Process.
 
