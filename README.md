@@ -22,7 +22,7 @@ To run the project on your device, follow these steps:
 * Build & Run the project.
 
 
-## 🎥 - Videos demonstrations of the app
+## 🎥 - Video demonstrations of the app
  
 ### Authorization Process.
 
