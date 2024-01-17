@@ -20,16 +20,18 @@ To run the project on your device, follow these steps:
 * You will need an Instagram Business account to log-in.
 * This project uses facebook's iOS SDK. Update package dependencies.
 * Build & Run the project.
-  
+
+
+## 🎥 - Videos demonstrations of the app
  
-## Authorization Process.
+### Authorization Process.
 
 ![GramFlwrsFirstGif](https://user-images.githubusercontent.com/36818367/209585328-d8a92396-3161-45d8-8cf5-ee99da537de7.gif)
 
-## Main Page, Data, and Bar Chart. Period Selection
+### Main Page, Data, and Bar Chart. Period Selection
 
 ![ezgif com-gif-maker-14](https://user-images.githubusercontent.com/36818367/210756593-2a7dcc52-5ba0-40a4-867c-8d345f0c0072.gif)
 
-## Widgets & Sign Out Process.
+### Widgets & Sign Out Process.
 
 ![GramFlwrsThirdGif](https://user-images.githubusercontent.com/36818367/209585390-8227cc00-8c52-4665-a822-eafd9f46e8fb.gif)
