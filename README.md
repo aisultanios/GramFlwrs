@@ -26,12 +26,18 @@ To run the project on your device, follow these steps:
  
 ### Authorization Process.
 
-![GramFlwrsFirstGif](https://user-images.githubusercontent.com/36818367/209585328-d8a92396-3161-45d8-8cf5-ee99da537de7.gif)
+<p align="center">
+<img src=https://user-images.githubusercontent.com/36818367/209585328-d8a92396-3161-45d8-8cf5-ee99da537de7.gif>
+</p>
 
 ### Main Page, Data, and Bar Chart. Period Selection
 
-![ezgif com-gif-maker-14](https://user-images.githubusercontent.com/36818367/210756593-2a7dcc52-5ba0-40a4-867c-8d345f0c0072.gif)
+<p align="center">
+<img src=https://user-images.githubusercontent.com/36818367/210756593-2a7dcc52-5ba0-40a4-867c-8d345f0c0072.gif>
+</p>
 
 ### Widgets & Sign Out Process.
 
-![GramFlwrsThirdGif](https://user-images.githubusercontent.com/36818367/209585390-8227cc00-8c52-4665-a822-eafd9f46e8fb.gif)
+<p align="center">
+<img src=https://user-images.githubusercontent.com/36818367/209585390-8227cc00-8c52-4665-a822-eafd9f46e8fb.gif>
+</p>
