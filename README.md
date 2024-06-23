@@ -4,7 +4,7 @@ GramFlwrs is an analytics tool that I've built to track my app's Instagram accou
 
 #### I have written an article that explains step-by-step how to implement a bar chart that I've developed for this project. You can find the tutorial [HERE](https://medium.com/@aisultan.askarov/revolutionize-your-ios-apps-data-display-with-this-custom-bar-chart-implementation-in-swiftui-bfe83506d85b)
 
-## 📦 Technologies:
+## 🛠️ Technologies:
 
 * `SwiftUI`
 * `MVVM`
