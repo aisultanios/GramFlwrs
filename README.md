@@ -2,7 +2,11 @@
  
 GramFlwrs is an analytics tool that I've built to track my app's Instagram account. I've built it using SwiftUI and MVVM pattern to implement app's business logic. The app is highly responsive and packs a lot of animations. While developing this project I've learned how to use the Widget Extensions which are implemented to GramFlwrs to have quick access to the data.
 
-#### I have written an article that explains step-by-step how to implement a bar chart that I've developed for this project. You can find the tutorial [HERE](https://medium.com/@aisultan.askarov/revolutionize-your-ios-apps-data-display-with-this-custom-bar-chart-implementation-in-swiftui-bfe83506d85b)
+#### I have written two articles based on this project:
+Each of the articles has been read more than 2 thousand times
+
+1. The first one covers the topic of how to implement a custom popover with arrow and rounded corners. You can find the tutorial [HERE](https://medium.com/@aisultanios/custom-popoverview-in-swiftui-popover-with-arrow-and-rounded-corners-shape-4b012caee60b)
+2. The second one explains step-by-step how to implement a bar chart that I've developed for this project. You can find the tutorial [HERE](https://medium.com/@aisultan.askarov/revolutionize-your-ios-apps-data-display-with-this-custom-bar-chart-implementation-in-swiftui-bfe83506d85b)
 
 ## 🛠️ Technologies:
 
